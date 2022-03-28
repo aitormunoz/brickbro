@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoWrapper {
+  margin-bottom: 20px;
+}
+
+.inputWrapper {
+  margin-top: 20px;
+  width: 500px;
+}
